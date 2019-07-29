@@ -1,0 +1,99 @@
+Username,storypoint,effort,task,tickettype,module,component
+user1,2,3,task1,modification,ui,dashboard
+user2,8,4,task1,modification,frontend,dashboard
+user3,2,1.5,task1,modification,backend,login
+user1,2,2,task2,new requirement,backend,homepage
+user2,2,2,task2,bugs,frontend,dashboard
+user3,6,4,task2,bugs,ui,landingpage
+user1,4,5,task2,modification,frontend,reporting
+user2,4,3,task3,new requirement,ui,dashboard
+user1,2,2,task3,new requirement,backend,register
+user4,10,15,task1,new requirement,ui,landingpage
+user5,1,2,task1,new requirement,ui,landingpage
+user5,3,1,task2,new requirement,ui,landingpage
+user6,5,15,task1,new requirement,ui,landingpage
+user4,10,2,task3,modification,ui,landingpage
+user4,2,10,task3,bugs,ui,landingpage
+user4,3,1,task1,bugs,ui,landingpage
+user1,2,1,,new requirement,backend,dashboard
+user1,2,1,,bugs,frontend,dashboard
+user1,2,1,,bugs,ui,login
+user1,2,1,,modification,frontend,homepage
+user1,2,1,,new requirement,ui,dashboard
+user1,2,1,,new requirement,backend,landingpage
+user1,2,1,,new requirement,ui,reporting
+user1,2,1,,bugs,ui,dashboard
+user1,2,1,,bugs,ui,dashboard
+user1,2,1,,bugs,frontend,dashboard
+user1,2,1,,bugs,ui,login
+user1,2,1,,bugs,backend,homepage
+user1,2,1,,bugs,frontend,dashboard
+user2,2,1,,new requirement,ui,landingpage
+user2,2,1,,bugs,backend,reporting
+user2,2,1,,bugs,frontend,dashboard
+user2,2,1,,modification,ui,dashboard
+user2,2,1,,new requirement,backend,dashboard
+user2,2,1,,new requirement,frontend,login
+user2,2,1,,new requirement,ui,homepage
+user3,2,1,,new requirement,backend,dashboard
+user3,2,1,,new requirement,frontend,landingpage
+user3,2,1,,new requirement,ui,reporting
+user3,2,1,,modification,frontend,dashboard
+user3,2,1,,bugs,frontend,dashboard
+user3,3,3,,bugs,ui,dashboard
+user3,2,3,,new requirement,ui,dashboard
+user3,2,3,,bugs,ui,login
+user3,2,3,,bugs,ui,homepage
+user3,2,3,,modification,frontend,dashboard
+user3,2,3,,new requirement,frontend,landingpage
+user3,2,3,,new requirement,backend,reporting
+user3,2,3,,new requirement,backend,dashboard
+user3,2,3,,new requirement,backend,dashboard
+user4,2,3,,new requirement,backend,dashboard
+user4,2,3,,new requirement,backend,login
+user4,2,3,,new requirement,ui,homepage
+user4,2,3,,new requirement,backend,dashboard
+user4,2,3,,new requirement,frontend,dashboard
+user4,2,3,,new requirement,ui,dashboard
+user4,2,3,,new requirement,frontend,login
+user4,2,3,,new requirement,frontend,homepage
+user4,2,2,,new requirement,ui,dashboard
+user4,2,2,,new requirement,ui,landingpage
+user1,2,2,,new requirement,backend,reporting
+user1,2,2,,new requirement,frontend,dashboard
+user1,2,2,,new requirement,ui,dashboard
+user1,2,2,,new requirement,frontend,dashboard
+user1,2,2,,new requirement,frontend,login
+user1,2,2,,modification,backend,homepage
+user1,2,2,,bugs,frontend,dashboard
+user1,2,2,,bugs,ui,landingpage
+user1,2,2,,new requirement,backend,reporting
+user1,2,2,,bugs,frontend,dashboard
+user1,2,2,,bugs,ui,dashboard
+user1,2,2,,modification,backend,dashboard
+user1,2,4,,new requirement,frontend,login
+user1,2,3,,new requirement,backend,homepage
+user1,2,2,,new requirement,frontend,dashboard
+user1,2,4,,new requirement,ui,landingpage
+user2,2,24,,new requirement,backend,reporting
+user2,2,4,,new requirement,frontend,dashboard
+user2,2,4,,modification,ui,dashboard
+user7,3,3,,bugs,backend,dashboard
+user7,3,3,,bugs,frontend,login
+user7,3,3,,new requirement,ui,homepage
+user7,3,3,,bugs,backend,dashboard
+user7,3,3,,bugs,backend,landingpage
+user7,3,3,,modification,frontend,reporting
+user7,3,3,,new requirement,ui,dashboard
+user7,3,3,,new requirement,backend,dashboard
+user7,3,3,,new requirement,frontend,dashboard
+user7,3,3,,new requirement,ui,login
+user7,3,3,,new requirement,backend,homepage
+user7,3,3,,new requirement,frontend,dashboard
+user7,3,3,,modification,ui,dashboard
+user7,3,3,,bugs,backend,login
+user8,2,2,task1,new requirement,backend,login
+user8,3,3,task2,new requirement,backend,register
+user8,2,1.5,task3 ,bugs,backend,register
+user8,2,6,task4,new requirement,frontend,homepage
+user8,2,2,task5,new requirement,backend,landingpage
